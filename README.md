@@ -64,3 +64,4 @@ Contributions are welcome! If you have any improvements or suggestions, feel fre
     git push origin feature-branch
     ```
 5. Open a pull request on GitHub.
+![Screenshot 2025-03-26 222407](https://github.com/user-attachments/assets/f7f28a64-2024-4630-a9b5-40870dd86b27)
